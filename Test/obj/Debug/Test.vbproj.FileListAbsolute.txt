@@ -1,0 +1,12 @@
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.Resources.resources
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\Gurpanth\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Gurpanth\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Gurpanth\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Gurpanth\source\repos\Test\Test\bin\Debug\Test.xml
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.xml
+C:\Users\Gurpanth\source\repos\Test\Test\obj\Debug\Test.pdb
